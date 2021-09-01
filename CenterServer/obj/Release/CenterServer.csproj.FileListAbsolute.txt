@@ -1,0 +1,26 @@
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\obj\Release\CenterServer.csprojResolveAssemblyReference.cache
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\bin\Release\CenterServer.exe.config
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\bin\Release\CenterServer.exe
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\bin\Release\CenterServer.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\bin\Release\RemotePCUtils.dll
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\bin\Release\RemotePCUtils.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\obj\Release\CenterServer.exe
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\obj\Release\CenterServer.pdb
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\bin\Release\CenterServer.exe.config
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\bin\Release\CenterServer.exe
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\bin\Release\CenterServer.pdb
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\bin\Release\RemotePCUtils.dll
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\bin\Release\RemotePCUtils.pdb
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\obj\Release\CenterServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\obj\Release\CenterServer.exe
+C:\Users\Administrator\Downloads\RemotePC_\CenterServer\obj\Release\CenterServer.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\bin\Release\CenterServer.exe.config
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\bin\Release\CenterServer.exe
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\bin\Release\CenterServer.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\bin\Release\RemotePCUtils.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\bin\Release\RemotePCUtils.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\obj\Release\CenterServer.csprojAssemblyReference.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\obj\Release\CenterServer.csproj.CoreCompileInputs.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\obj\Release\CenterServer.csproj.CopyComplete
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\obj\Release\CenterServer.exe
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\CenterServer\obj\Release\CenterServer.pdb

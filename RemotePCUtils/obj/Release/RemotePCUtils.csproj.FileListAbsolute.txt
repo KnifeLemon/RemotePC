@@ -1,0 +1,16 @@
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.dll
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.dll
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.pdb
+C:\Users\Administrator\Downloads\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\bin\Release\RemotePCUtils.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.csprojAssemblyReference.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.csproj.CoreCompileInputs.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePCUtils\obj\Release\RemotePCUtils.pdb

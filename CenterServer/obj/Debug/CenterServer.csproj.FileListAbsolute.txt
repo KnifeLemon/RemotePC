@@ -1,0 +1,1 @@
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\CenterServer\obj\Debug\CenterServer.csprojResolveAssemblyReference.cache

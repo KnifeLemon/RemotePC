@@ -1,0 +1,9 @@
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Debug\RemotePC_.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Debug\RemotePC_.exe
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Debug\RemotePC_.pdb
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.csproj.GenerateResource.Cache
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.exe
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.pdb
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Debug\RemotePC_.MainForm.resources

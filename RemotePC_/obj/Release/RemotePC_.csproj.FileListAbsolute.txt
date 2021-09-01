@@ -1,0 +1,45 @@
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe.config
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.csprojResolveAssemblyReference.cache
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.MainForm.resources
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.Properties.Resources.resources
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.csproj.GenerateResource.Cache
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\RemotePC_.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\Interop.NATUPNPLib.dll
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.dll
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.exe
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.pdb
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\obj\Release\RemotePC_.RemoteForm.resources
+C:\Users\aa\documents\visual studio 2013\Projects\RemotePC_\RemotePC_\bin\Release\Bzip2.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe.config
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.exe
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.pdb
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\RemotePC_.pdb
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\Bzip2.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\Interop.NATUPNPLib.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.dll
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.pdb
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.MainForm.resources
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.Properties.Resources.resources
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.RemoteForm.resources
+C:\Users\Administrator\Downloads\RemotePC_\RemotePC_\obj\Release\RemotePC_.csproj.GenerateResource.Cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe.config
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\RemotePC_.exe
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\RemotePC_.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\Bzip2.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\Interop.NATUPNPLib.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\bin\Release\RemotePCUtils.pdb
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.csprojAssemblyReference.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.MainForm.resources
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.Properties.Resources.resources
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.RemoteForm.resources
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.csproj.GenerateResource.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.csproj.CoreCompileInputs.cache
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.csproj.CopyComplete
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.exe
+C:\Users\knife\Downloads\원격제어소스\RemotePC_\RemotePC_\obj\Release\RemotePC_.pdb
