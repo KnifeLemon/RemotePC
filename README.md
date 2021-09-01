@@ -1,6 +1,8 @@
 # RemotePC
 Hole Punching 기술을 이용한 원격제어 프로그램
 
+### 공부용이었으며 모든 기능이 구현이 안돼있고, 코드가 불안정할 수 있습니다.
+
 ![캡처](https://user-images.githubusercontent.com/13937016/131717156-93c1c8cc-8f22-435c-9a6b-255882ef290d.jpg)
 
 ## - 사용시 변경할 것 -
